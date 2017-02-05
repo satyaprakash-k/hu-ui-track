@@ -1,0 +1,14 @@
+.bottom-footer {
+  border-top: 1px solid $black;
+  color: $grey-color;
+  background-color: $black-light-color;
+
+  .hi-container {
+    text-align: center;
+  }
+}
+
+.hi-footerfont {
+  font-family: 'Open Sans', sans-serif;
+  word-spacing: -1px;
+}
